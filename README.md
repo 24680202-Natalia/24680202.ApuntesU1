@@ -25,7 +25,7 @@
 
   <a href="1.5. Representación y trazo de líneas y polígonos.">📘 1.5 Representación de líneas y polígonos</a>
 
-  <a href="temas/1_5_1_formatos_imagen.html">📘 1.5.1 Formatos de imagen</a>
+  <a href="1.5.1 Formatos de imagen.">📘 1.5.1 Formatos de imagen</a>
 
   <a href="temas/1_6_mapas_bits.html">📘 1.6 Procesamiento de mapas de bits</a>
 
