@@ -14,7 +14,7 @@
 <nav class="menu">
 
   <!-- TEMAS -->
-  <a href="1.4. Modelos del color: RBG, CMY, HSV y HSL.">📘 1.1 Historia y evolución</a>
+  <a href="">📘 1.1 Historia y evolución</a>
 
   <a href="temas/1_2_areas.html">📘 1.2 Áreas de aplicación</a>
 
