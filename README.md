@@ -20,8 +20,7 @@
 
   <a href="1.2. Áreas de aplicación.">📘 1.2 Áreas de aplicación</a>
 
- <a href="1.3. Aspectos matemáticos de la graficación.">📘 1.3 Aspectos matemáticos</a>
- <a href="1.4. Modelos del color: RBG, CMY, HSV y HSL.">📘 1.4 Aspectos matemáticos</a> 
+ <a href="1.3. Aspectos matemáticos de la graficación.">📘 1.3 Aspectos matemáticos</a> <a href="1.4. Modelos del color: RBG, CMY, HSV y HSL.">📘 1.4 Aspectos matemáticos</a> 
 
   <a href="1.5. Representación y trazo de líneas y polígonos.">📘 1.5 Representación de líneas y polígonos</a>
 
@@ -31,12 +30,7 @@
 
 </nav>
 
-<section class="card">
-  <h2>🧪 Prácticas</h2>
-  <ul>
-    <li><a href="practicas/poligono.html">🔷 Práctica: Dibujo de polígono</a></li>
-    <li><a href="practicas/flor_vida.html">🌸 Práctica: Flor de la vida</a></li>
-  </ul>
+<section class="card
 </section>
 
 <footer>
