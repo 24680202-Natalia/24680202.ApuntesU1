@@ -22,7 +22,7 @@
 
   <a href="temas/1_4_modelos_color.html">📘 1.4 Modelos de color</a>
 
-  <a href="temas/1_5_lineas_poligonos.html">📘 1.5 Representación de líneas y polígonos</a>
+  <a href="1.5. Representación y trazo de líneas y polígonos.">📘 1.5 Representación de líneas y polígonos</a>
 
   <a href="temas/1_5_1_formatos_imagen.html">📘 1.5.1 Formatos de imagen</a>
 
