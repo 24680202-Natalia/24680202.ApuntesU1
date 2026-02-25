@@ -14,7 +14,7 @@
 <nav class="menu">
 
   <!-- TEMAS -->
-  <a href="">📘 1.1 Historia y evolución</a>
+  <a href="1.1. Historia y evolución de la graficación por computadora.">📘 1.1 Historia y evolución</a>
 
   <a href="temas/1_2_areas.html">📘 1.2 Áreas de aplicación</a>
 
