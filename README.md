@@ -22,7 +22,7 @@
 
  <a href="1.3. Aspectos matemáticos de la graficación.">📘 1.3 Aspectos matemáticos</a>
 
- 
+ <a href="">📘 1.4 Modelos del color</a>
 
   <a href="1.5. Representación y trazo de líneas y polígonos.">📘 1.5 Representación de líneas y polígonos</a>
 
