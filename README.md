@@ -21,7 +21,7 @@
 
  <a href="1.3. Aspectos matemáticos de la graficación.">📘 1.3 Aspectos matemáticos</a>
 
- <a href="1.4. Modelos del color: RBG, CMY, HSV y HSL.">📘 1.4 Modelos del color</a>
+ <a href="[1.4. Modelos del color: RBG, CMY, HSV y HSL.](https://github.com/24680202-Natalia/24680202.ApuntesU1/commit/2380c80ec0663847b4e9bb4ecc2e063ab81bbb48)">📘 1.4 Modelos del color</a>
 
   <a href="1.5. Representación y trazo de líneas y polígonos.">📘 1.5 Representación de líneas y polígonos</a>
 
