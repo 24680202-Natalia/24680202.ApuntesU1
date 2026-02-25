@@ -28,7 +28,7 @@
 
   <a href="1.6. Procesamiento de mapas de bits.md">📘 1.6 Procesamiento de mapas de bits</a>
 
-</nav>>
+</nav>
 
 <section class="card
 </section>
