@@ -26,7 +26,7 @@
 
   <a href="1.5.1 Formatos de imagen.">📘 1.5.1 Formatos de imagen</a>
 
-  <a href="temas/1_6_mapas_bits.html">📘 1.6 Procesamiento de mapas de bits</a>
+  <a href="1.6. Procesamiento de mapas de bits.">📘 1.6 Procesamiento de mapas de bits</a>
 
 </nav>>
 
