@@ -20,7 +20,7 @@
 
   <a href="1.2. Áreas de aplicación.">📘 1.2 Áreas de aplicación</a>
 
-  <a href="temas/1_3_aspectos_matematicos.html">📘 1.3 Aspectos matemáticos</a>
+  <a href="1.3. Aspectos matemáticos de la graficación.">📘 1.3 Aspectos matemáticos</a>
    <a href="temas/1_4_modelos_color.html">📘 1.4 Modelos de color</a>
 
   <a href="temas/1_5_lineas_poligonos.html">📘 1.5 Representación de líneas y polígonos</a>
