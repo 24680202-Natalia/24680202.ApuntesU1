@@ -22,7 +22,6 @@
 
  <a href="1.3. Aspectos matemáticos de la graficación.">📘 1.3 Aspectos matemáticos</a>
 
- 
   <a href="1.4. Modelos del color: RBG, CMY, HSV y HSL.">📘 1.4 Aspectos matemáticos</a>
    
 
