@@ -15,6 +15,9 @@
 <li>Watt, A. (2013). <i>3D computer graphics</i>. Addison-Wesley.</li>
 <li>Blender Foundation. (2024). <i>Blender Documentation</i>.</li>
 </ul>
-
+<br>
+<footer style="text-align:center; padding:20px;">
+  <a href="README.md"> Volver al menú</a> |
+</footer>footer>
 </body>
 </html>
