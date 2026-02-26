@@ -18,6 +18,6 @@
 <br>
 <footer style="text-align:center; padding:20px;">
   <a href="README.md"> Volver al menú</a> |
-</footer>footer>
+</footer>
 </body>
 </html>
