@@ -8,8 +8,12 @@
 <body>
 
 <header>
+  <h1>TecNM Instituto Tecnológico de Cuautla</h1>
+  <h1>246880202 Natalia Reyes Baños</h1>
+  <h2>Graficacion Grupo:3 Semestre: 4 25-02-2026</h2>
+  <h1>APUNTES UNIDAD 1</h1>
   <h1>Unidad I. Introducción a la Graficación por Computadora</h1>
-  <p>Haz clic en cualquier tema para abrirlo</p>
+  <p>Aquí se presentan todos los temas presentados en clase, desarrollados por mi:</p>
 </header>
 <nav class="menu">
 
@@ -27,7 +31,8 @@
   <a href="1.5.1 Formatos de imagen.md">📘 1.5.1 Formatos de imagen</a>
 
   <a href="1.6. Procesamiento de mapas de bits.md">📘 1.6 Procesamiento de mapas de bits</a>
-
+  
+<a href="Bibliografias.md">📘 Bibliografias</a>
 </nav>
 
 <section class="card
