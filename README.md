@@ -11,7 +11,7 @@
   <h1>TecNM Instituto Tecnológico de Cuautla</h1>
   <h1>246880202 Natalia Reyes Baños</h1>
   <h2>Graficacion Grupo:3 Semestre: 4 25-02-2026</h2>
-  <h1>APUNTES UNIDAD 1</h1>
+  <h1>APUNTES GRAFICACIÓN</h1>
   <h1>Unidad I. Introducción a la Graficación por Computadora</h1>
   <p>Aquí se presentan todos los temas presentados en clase, desarrollados por mi:</p>
 </header>
@@ -32,14 +32,39 @@
 
   <a href="1.6. Procesamiento de mapas de bits.md">📘 1.6 Procesamiento de mapas de bits</a>
   
-<a href="Bibliografias.md">📘 Bibliografias</a>
+</nav>
+<h1>Unidad II. Graficación2D</h1>
+<nav class="menu">
+
+  <!-- TEMAS -->
+  <a href="2.1. Transformación bidimensional.">📘 2.1. Transformación bidimensional</a>
+
+  <a href="2.1.1. Traslación.">📘 2.1.1. Traslación</a>
+
+  <a href="2.1.2. Escalamiento.">📘 2.1.2. Escalamiento</a>
+
+  <a href="2.1.3. Rotación.">📘 2.1.3. Rotación</a>
+
+  <a href="2.1.4. Sesgado.">📘 2.1.4. Sesgado</a>
+
+  <a href="2.2.Representación matricial de las transformaciones bidimensionales.">📘 2.2.Representación matricial de las transformaciones bidimensionales</a>
+
+  <a href="2.3. Trazo de líneas curvas.">📘 2.3. Trazo de líneas curvas</a>
+  
+  <a href="2.3.2. B-spline.">📘 2.3.2. B-spline</a>
+  
+  <a href="2.4. Fractales.">📘 2.4. Fractales</a>
+  
+  <a href="2.5. Uso y creación de fuentes de texto.">📘 2.5. Uso y creación de fuentes de texto</a>
+  
 </nav>
 
-<section class="card
-</section>
 
 <footer>
-  <p>Repositorio educativo — Graficación por Computadora</p>
+  <h1>Bibliografías de los temas</h1>
+  <nav>
+  <a href="Bibliografias.md">📘 Bibliografias</a>
+  </nav>
 </footer>
 
 </body>
