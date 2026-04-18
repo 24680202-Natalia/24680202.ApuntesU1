@@ -37,28 +37,27 @@
 <nav class="menu">
 
   <!-- TEMAS -->
-  <a href="2.1. Transformación bidimensional.">📘 2.1. Transformación bidimensional</a>
+  <a href="2.1. Transformación bidimensional.md">📘 2.1. Transformación bidimensional</a>
 
-  <a href="2.1.1. Traslación.">📘 2.1.1. Traslación</a>
+  <a href="2.1.1. Traslación.md">📘 2.1.1. Traslación</a>
 
-  <a href="2.1.2. Escalamiento.">📘 2.1.2. Escalamiento</a>
+  <a href="2.1.2. Escalamiento.md">📘 2.1.2. Escalamiento</a>
 
-  <a href="2.1.3. Rotación.">📘 2.1.3. Rotación</a>
+  <a href="2.1.3. Rotación.md">📘 2.1.3. Rotación</a>
 
-  <a href="2.1.4. Sesgado.">📘 2.1.4. Sesgado</a>
+  <a href="2.1.4. Sesgado.md">📘 2.1.4. Sesgado</a>
 
-  <a href="2.2.Representación matricial de las transformaciones bidimensionales.">📘 2.2.Representación matricial de las transformaciones bidimensionales</a>
+  <a href="2.2.Representación matricial de las transformaciones bidimensionales.md">📘 2.2.Representación matricial de las transformaciones bidimensionales</a>
 
-  <a href="2.3. Trazo de líneas curvas.">📘 2.3. Trazo de líneas curvas</a>
+  <a href="2.3. Trazo de líneas curvas.md">📘 2.3. Trazo de líneas curvas</a>
   
-  <a href="2.3.2. B-spline.">📘 2.3.2. B-spline</a>
+  <a href="2.3.2. B-spline.md">📘 2.3.2. B-spline</a>
   
-  <a href="2.4. Fractales.">📘 2.4. Fractales</a>
+  <a href="2.4. Fractales.md">📘 2.4. Fractales</a>
   
-  <a href="2.5. Uso y creación de fuentes de texto.">📘 2.5. Uso y creación de fuentes de texto</a>
+  <a href="2.5. Uso y creación de fuentes de texto.md">📘 2.5. Uso y creación de fuentes de texto</a>
   
 </nav>
-
 
 <footer>
   <h1>Bibliografías de los temas</h1>
